@@ -8,8 +8,8 @@ One of the greatest experiences during the bootcamp was working in a team with f
 and functional app to find new spot**z** in your current location.
 
 **our bootcamp projects🙌:**
-- [Spotz](https://github.com/hoFRANZISKA/spotz)
-- [Uniqorns](https://github.com/hoFRANZISKA/rails-uniqorns)
+- [Spotz](https://github.com/124webdev/spotz.git)
+- [Uniqorns](https://github.com/124webdev/rails-uniqorns.git)
 
 <!-- have to push spotz and unicorns on github and change the links --!>
 
